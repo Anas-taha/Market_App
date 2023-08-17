@@ -1,6 +1,8 @@
 # market_app
 
-A new Flutter application.
+Flutter application created to try and learn how to deal with Provider state management.
+The app is a simple market app that allows the user to add items to a cart and then checkout. 
+the app use firebase firestore as backend .
 
 ## Getting Started
 
